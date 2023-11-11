@@ -1,0 +1,8 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>decentralized-identity</groupId
+	<artifactId>uni-registrar-core</artifactId
+</dependency>
+```
